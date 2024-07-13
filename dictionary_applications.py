@@ -1,7 +1,3 @@
-# Task 1: Restaurant Menu Update You are given an initial structure of a restaurant menu stored in a nested dictionary. Your task is to update this menu based on given instructions
-
-# Problem Statement: Given the initial menu:
-
 restaurant_menu = {
     "Starters": {"Soup": 5.99, "Bruschetta": 6.50},
     "Main Course": {"Steak": 15.99, "Salmon": 13.99},
